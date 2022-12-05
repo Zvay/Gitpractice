@@ -1,0 +1,12 @@
+Git commands:
+
+To add a git repo from your local working directory to your remote directory,
+you use : git remote add origin(origin is the name of your remote).
+so again : git remote add origin (link of your repo).
+
+to push repo from working to remote. we use the command:
+
+git push -u origin master.
+origin = remote name
+master = branch.(default branch in this case).
+
